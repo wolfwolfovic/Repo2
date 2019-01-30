@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 009D-7891
+
+ Directory of C:\Users\Vuk\Desktop\MyProject
+
+01/30/2019  11:57 AM    <DIR>          .
+01/30/2019  11:57 AM    <DIR>          ..
+01/30/2019  11:57 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  94,769,004,544 bytes free
